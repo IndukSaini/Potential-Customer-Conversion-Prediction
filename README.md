@@ -3408,5 +3408,3 @@ Final Business Recommendation
 
 ExtraaLearn should implement a lead-scoring framework powered by the Tuned Decision Tree model. The sales team should prioritize website-originated, highly engaged, professionally employed, and referral-based leads, as these segments demonstrate the highest likelihood of conversion. By focusing resources on high-probability leads and nurturing medium-potential leads through targeted marketing, ExtraaLearn can improve conversion rates, reduce acquisition costs, and maximize sales efficiency.
 
-!pip install nbconvert
-!jupyter nbconvert --to html '/content/drive/MyDrive/Data_Science_2026/Project/Elective Project/Elective project-Practical data Science/Learner Notebook - Full Code Version - Potential Customers Prediction.ipynb'
