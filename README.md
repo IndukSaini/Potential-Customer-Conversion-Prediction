@@ -914,16 +914,7 @@ for col in cat_cols:
     plt.ylabel('Percentage')
 
     plt.show()
-No description has been provided for this image
-No description has been provided for this image
-No description has been provided for this image
-No description has been provided for this image
-No description has been provided for this image
-No description has been provided for this image
-No description has been provided for this image
-No description has been provided for this image
-No description has been provided for this image
-No description has been provided for this image
+
 Observation:
 
 Professionals account for approximately 57% of all leads, making them the largest customer segment in the dataset.
